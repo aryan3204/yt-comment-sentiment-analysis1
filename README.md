@@ -43,6 +43,7 @@ This project was tested on comments from the YouTube episode **“The Film Criti
 
 Out of 30 analysed comments, 22 were labelled POSITIVE and 8 NEGATIVE, indicating that audience sentiment towards the interview is strongly positive. The model’s average confidence was about 0.97 for POSITIVE and 0.99 for NEGATIVE predictions. [file:148][file:204]
 
-![Sentiment distribution for Imran Khan interview](/Users/aryangupta/Desktop/yt-comment-sentiment-analysis1/notebooks/figures/Screenshot%202025-12-28%20at%203.30.33%20PM.png)
+![Sentiment distribution for Imran Khan interview](notebooks/figures/imranscreenshot.jpg)
+
 
 
